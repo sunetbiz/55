@@ -14,7 +14,7 @@ Format: `[@BotUsername](https://telegram.me/BotUsername) - Bot One Line Descript
 
 ## Health & Fitness
 - [@WeightLogBot](https://telegram.me/WeightLogBot) - Logs your weight, and gives you a JSON API and nice output commands to see your progress.
-
+- [@SibDietBot](https://telegram.me/sibdietbot) - preparation of dietary and medical advice (Persian).
 ## Reference
 - [@Spoopybot](https://telegram.me/Spoopybot) - You will get visited by the spoopy telegram skeleton.
 
