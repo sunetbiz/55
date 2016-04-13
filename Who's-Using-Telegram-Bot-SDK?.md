@@ -11,6 +11,7 @@ Format: `[@BotUsername](https://telegram.me/BotUsername) - Bot One Line Descript
 ## Games
 - [@MyPokerBot](https://telegram.me/MyPokerBot) - MyPokerBot lets you play Texas Hold 'em Poker with Telegram users at a 5 person table.
 - [@AbnaBot](https://telegram.me/AbnaBot) - Play games like Connect Four and Number Guess with friends and Telegram users. (Persian)
+- [@ENLAgentBot](https://telegram.me/ENLAgentBot) - Enlightened Agent Bot [Beta] - Bridging the communication gap between Ingress players
 
 ## Health & Fitness
 - [@WeightLogBot](https://telegram.me/WeightLogBot) - Logs your weight, and gives you a JSON API and nice output commands to see your progress.
