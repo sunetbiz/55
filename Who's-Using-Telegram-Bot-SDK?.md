@@ -40,6 +40,7 @@ If the above list doesn't have the category that fits your bot, then simply pick
 - Health & Fitness
 - Lifestyle
 ## Medical
+
 - [@mednew](https://telegram.me/mednew) -Medical news channel in persian broadcasting by @shes_ir_bot
 - Music
 - News & Magazines
