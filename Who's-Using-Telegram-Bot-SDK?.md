@@ -14,7 +14,6 @@ Format: `[@BotUsername](https://telegram.me/BotUsername) - Bot One Line Descript
 - [@ENLAgentBot](https://telegram.me/ENLAgentBot) - Enlightened Agent Bot [Beta] - Bridging the communication gap between Ingress players
 
 ## Health & Fitness
-- [@mednew](https://telegram.me/mednew) -Medical news channel in persian broadcasting by @shes_ir_bot
 - [@WeightLogBot](https://telegram.me/WeightLogBot) - Logs your weight, and gives you a JSON API and nice output commands to see your progress.
 - [@SibDietBot](https://telegram.me/sibdietbot) - preparation of dietary and medical advice (Persian).
 
@@ -40,7 +39,8 @@ If the above list doesn't have the category that fits your bot, then simply pick
 - Games
 - Health & Fitness
 - Lifestyle
-- Medical
+## Medical
+- [@mednew](https://telegram.me/mednew) -Medical news channel in persian broadcasting by @shes_ir_bot
 - Music
 - News & Magazines
 - Photography
