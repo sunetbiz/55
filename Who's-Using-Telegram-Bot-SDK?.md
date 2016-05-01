@@ -27,6 +27,10 @@ Format: `[@BotUsername](https://telegram.me/BotUsername) - Bot One Line Descript
 - [@dictionary_robot](https://telegram.me/dictionary_robot) - English to Persian and Persian to English Dictionary.
 - [@Asuka_Bot](https://telegram.me/Asuka_Bot) - Asuka is a utility bot intended to provide functions that you would usually have to leave Telegram and open another program for. Perfect examples are the IMDb and Google search commands.
 
+## Medical
+
+- [@mednew](https://telegram.me/mednew) -Medical news channel in persian broadcasting by @shes_ir_bot
+
 # Available Categories
 
 If the above list doesn't have the category that fits your bot, then simply pick one from below and add it above.
@@ -39,9 +43,6 @@ If the above list doesn't have the category that fits your bot, then simply pick
 - Games
 - Health & Fitness
 - Lifestyle
-## Medical
-
-- [@mednew](https://telegram.me/mednew) -Medical news channel in persian broadcasting by @shes_ir_bot
 - Music
 - News & Magazines
 - Photography
