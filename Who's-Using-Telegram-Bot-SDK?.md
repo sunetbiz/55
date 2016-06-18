@@ -6,6 +6,7 @@ Format: `[@BotUsername](https://telegram.me/BotUsername) - Bot One Line Descript
 - [@VGMbot](https://telegram.me/VGMbot) - Group Management
 
 ## Entertainment
+- [@hereiambot](https://telegram.me/heariambot) - View already over 400 users on a map and chat with people nearby! Watch out the "spies"...
 - [@GardeningBot](https://telegram.me/GardeningBot) - Flower Gardening.
 
 ## Games
