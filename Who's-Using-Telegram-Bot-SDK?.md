@@ -2,6 +2,14 @@ Is your project or product using Telegram Bot SDK? Let us know, append it here u
 
 Format: `[@BotUsername](https://telegram.me/BotUsername) - Bot One Line Description`
 
+## Organizations
+
+> Following are the organizations that use this SDK to build their bot(s) for their private use.
+>
+> If your organization uses as well, Feel free to add the name under this list :)
+
+- **Travel:** IALPA (Irish Air Lines Pilots' Association) - A Nonprofit Org.
+
 ## Developer
 - [@VGMbot](https://telegram.me/VGMbot) - Group Management
 
