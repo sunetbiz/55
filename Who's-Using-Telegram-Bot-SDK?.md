@@ -36,6 +36,7 @@ Format: `[@BotUsername](https://telegram.me/BotUsername) - Bot One Line Descript
 - [@dictionary_robot](https://telegram.me/dictionary_robot) - English to Persian and Persian to English Dictionary.
 - [@Asuka_Bot](https://telegram.me/Asuka_Bot) - Asuka is a utility bot intended to provide functions that you would usually have to leave Telegram and open another program for. Perfect examples are the IMDb and Google search commands.
 - [@the_secu_bot](https://telegram.me/the_secu_bot) - Create public self-destructing data packages using open-source service [SЁCU](https://secu.su/).
+- [@RifiutarioBot](https://telegram.me/RifiutarioBot) - Support for a correct recycling
 
 ## Medical
 
