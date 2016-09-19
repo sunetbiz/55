@@ -18,6 +18,7 @@ Format: `[@BotUsername](https://telegram.me/BotUsername) - Bot One Line Descript
 - [@GardeningBot](https://telegram.me/GardeningBot) - Flower Gardening.
 
 ## Games
+- [@PokeNoteBot](https://telegram.me/PokeNoteBot) - My Bot sends a message when a Pokemon disappears in Bocholt (Germany) for PokemonGO
 - [@MyPokerBot](https://telegram.me/MyPokerBot) - MyPokerBot lets you play Texas Hold 'em Poker with Telegram users at a 5 person table.
 - [@AbnaBot](https://telegram.me/AbnaBot) - Play games like Connect Four and Number Guess with friends and Telegram users. (Persian)
 - [@ENLAgentBot](https://telegram.me/ENLAgentBot) - Enlightened Agent Bot [Beta] - Bridging the communication gap between Ingress players
