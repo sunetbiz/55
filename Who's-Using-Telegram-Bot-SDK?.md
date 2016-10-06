@@ -45,6 +45,9 @@ Format: `[@BotUsername](https://telegram.me/BotUsername) - Bot One Line Descript
 
 - [@mednew](https://telegram.me/mednew) -Medical news channel in persian broadcasting by @shes_ir_bot
 
+$## News
+- [@cariberitabot](https://telegram.me/cariberitabot) - News , only News for Indonesian Region
+
 # Available Categories
 
 If the above list doesn't have the category that fits your bot, then simply pick one from below and add it above.
