@@ -30,6 +30,7 @@ Format: `[@BotUsername](https://telegram.me/BotUsername) - Bot One Line Descript
 
 ## Reference
 - [@Spoopybot](https://telegram.me/Spoopybot) - You will get visited by the spoopy telegram skeleton.
+- [@EvandBot](https://telegram.me/EvandBot) - Reference for Iran events and do some functionality(login,register,buy,discovery,etc) of [Evand website](https://evand.ir) in bot .
 
 ## Social
 - [@Shmsher_bot](https://telegram.me/Shmsher_bot) - Social Work.
