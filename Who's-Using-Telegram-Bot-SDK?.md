@@ -1,6 +1,6 @@
 Is your project or product using Telegram Bot SDK? Let us know, append it here under its appropriate category:
 
-Format: `[@BotUsername](https://telegram.me/BotUsername) - Bot One Line Description`
+Format: `[@burna_bot](https://telegram.me/burna_bot) - Bot One Line Description`
 
 ## Organizations
 
