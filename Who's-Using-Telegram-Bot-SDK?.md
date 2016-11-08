@@ -1,6 +1,6 @@
 Is your project or product using Telegram Bot SDK? Let us know, append it here under its appropriate category:
 
-Format: `[@burna_bot](https://telegram.me/burna_bot) - Bot One Line Description`
+Format: `[@botname](https://telegram.me/botname) - Bot One Line Description`
 
 ## Organizations
 
@@ -48,6 +48,9 @@ Format: `[@burna_bot](https://telegram.me/burna_bot) - Bot One Line Description`
 
 ## News & Magazines
 - [@cariberitabot](https://telegram.me/cariberitabot) - News, only News for Indonesian Region.
+
+## Other
+- [@burna_bot](https://telegram.me/burna_bot) - No Description.
 
 # Available Categories
 
