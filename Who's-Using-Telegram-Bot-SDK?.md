@@ -17,6 +17,7 @@ Format: `[@botname](https://telegram.me/botname) - Bot One Line Description`
 - [@hereiambot](https://telegram.me/hereiambot) - View already over 400 users on a map and chat with people nearby! Watch out the "spies"...
 - [@GardeningBot](https://telegram.me/GardeningBot) - Flower Gardening.
 - [@webcomics_bot](https://telegram.me/webcomics_bot) - Receive lots of web comics!
+- [@GharibeBot](https://telegram.me/gharibebot) - Chat with a total stranger. Supports English and Persian Language.
 
 ## Games
 - [@PokeNoteBot](https://telegram.me/PokeNoteBot) - My Bot sends a message when a Pokemon disappears in Bocholt (Germany) for PokemonGO
