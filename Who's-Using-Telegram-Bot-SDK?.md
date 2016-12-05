@@ -13,6 +13,9 @@ Format: `[@botname](https://telegram.me/botname) - Bot One Line Description`
 ## Developer
 - [@VGMbot](https://telegram.me/VGMbot) - Group Management
 
+## Education
+- [@ArabicEnglishBot](https://telegram.me/ArabicEnglishBot) - Arabic <> English Dictionary.
+
 ## Entertainment
 - [@hereiambot](https://telegram.me/hereiambot) - View already over 400 users on a map and chat with people nearby! Watch out the "spies"...
 - [@GardeningBot](https://telegram.me/GardeningBot) - Flower Gardening.
