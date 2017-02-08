@@ -40,6 +40,7 @@ Format: `[@botname](https://telegram.me/botname) - Bot One Line Description`
 
 ## Social
 - [@Shmsher_bot](https://telegram.me/Shmsher_bot) - Social Work.
+- [@MyInstagramRobot](https://telegram.me/MyInstagramRobot) - Instagram Media, Profile picture and Story downloader
 
 ## Utilities
 - [@dictionary_robot](https://telegram.me/dictionary_robot) - English to Persian and Persian to English Dictionary.
