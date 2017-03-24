@@ -15,6 +15,7 @@ Format: `[@botname](https://telegram.me/botname) - Bot One Line Description`
 
 ## Education
 - [@ArabicEnglishBot](https://telegram.me/ArabicEnglishBot) - Arabic <> English Dictionary.
+- [@UVaStalkerBot](https://telegram.me/UVaStalkerBot) - Stalk submissions from UVa Online Judge users.
 
 ## Entertainment
 - [@hereiambot](https://telegram.me/hereiambot) - View already over 400 users on a map and chat with people nearby! Watch out the "spies"...
