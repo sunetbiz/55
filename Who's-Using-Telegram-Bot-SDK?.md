@@ -60,7 +60,7 @@ Format: `[@botname](https://telegram.me/botname) - Bot One Line Description`
 
 ## Other
 - [@burna_bot](https://telegram.me/burna_bot) - No Description.
-- [@ruasjalanbot] (https://telegram.me/ruasjalanbot) - sharing pictures/images/video about traffic jam.
+- [@ruasjalanbot](https://telegram.me/ruasjalanbot) - sharing pictures/images/video about traffic jam.
 source code available at https://github.com/kukuhtw/ruasjalantelegrambot
 
 # Available Categories
