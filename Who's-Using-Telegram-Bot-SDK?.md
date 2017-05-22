@@ -50,6 +50,7 @@ Format: `[@botname](https://telegram.me/botname) - Bot One Line Description`
 - [@the_secu_bot](https://telegram.me/the_secu_bot) - Create public self-destructing data packages using open-source service [SЁCU](https://secu.su/).
 - [@RifiutarioBot](https://telegram.me/RifiutarioBot) - Support for a correct recycling
 - [@caricaribot](https://telegram.me/caricaribot) - Telegram Group/Bot/Channel Directory
+- [@GithubReleasesBot](https://telegram.me/GithubReleasesBot) - Follow Github Repository and get notifications when new Releases rolled out
 
 ## Medical
 
