@@ -53,6 +53,7 @@ Format: `[@botname](https://telegram.me/botname) - Bot One Line Description`
 - [@GithubReleasesBot](https://telegram.me/GithubReleasesBot) - Follow Github Repository and get notifications when new Releases rolled out
 - [@PackagistBot](https://telegram.me/PackagistBot) - Telegram bot for search in [Packagist](packagist.org). Source [here](https://github.com/vitormattos/bot-packagist)
 - [@OneTimePassBot](https://telegram.me/OneTimePassBot) - Just another bot to generate [TOTP](https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm). Source [here](https://github.com/vitormattos/bot-onetimepass)
+- [@trafficrobot](https://telegram.me/trafficrobot) - Connects emails, webforms, and API with Telegram. Website [here](https://trafficrobot.tk/)
 
 ## Medical
 
