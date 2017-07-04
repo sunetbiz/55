@@ -62,6 +62,9 @@ Format: `[@botname](https://telegram.me/botname) - Bot One Line Description`
 ## News & Magazines
 - [@cariberitabot](https://telegram.me/cariberitabot) - News, only News for Indonesian Region.
 
+## Music
+- [@TooGoosh_Bot](https://telegram.me/toogoosh_bot) - The Most Compelete Collection of Persian Musics.
+
 ## Other
 - [@burna_bot](https://telegram.me/burna_bot) - No Description.
 - [@ruasjalanbot](https://telegram.me/ruasjalanbot) - sharing pictures/images/video about traffic jam.
